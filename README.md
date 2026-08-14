@@ -106,20 +106,6 @@ python -m scripts.make_figures
 Raw files are kept under `data/raw/` and ignored by Git. SHA-256 values printed
 by the downloader make the local inputs auditable.
 
-## Reproducibility limitations found during audit
-
-- The paper states 2,432 ET-YaleB images, while widely distributed processed
-  versions commonly contain 2,414; exact inclusion/exclusion rules are absent.
-- It is unclear whether the 100 visual test samples are the only unlabelled
-  graph nodes or are evaluated within a graph containing the full dataset.
-- The precise clustering and representation hypergraphs are not specified.
-- Negative sparse-code inner products and zero degrees are not handled in the
-  paper, and dictionary initialization/convergence parameters are omitted.
-- The citation section prints four learning rates for three datasets.
-- The source proof gives Pubmed 500-dimensional features and hidden dimensions
-  256 (Cora/Pubmed) and 64 (Citeseer); some secondary transcriptions get these
-  values wrong.
-
 See `manuscript/paper_results.tex` for paper-ready experimental text. Following
 the manuscript policy, this LaTeX section contains only the source-paper values
 and does not include the independent pilot measurements.
