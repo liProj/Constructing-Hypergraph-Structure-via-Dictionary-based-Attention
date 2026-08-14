@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this independent reproduction, cite the original paper and this software snapshot."
+title: "DA-Hypergraph Reproduction"
+type: software
+version: 0.1.0
+authors:
+  - name: "Anonymous reproduction authors"
+date-released: 2026-08-14
+references:
+  - type: article
+    title: "Constructing Hypergraph Structure via Dictionary-based Attention"
+    authors:
+      - family-names: Sun
+        given-names: Yulin
+      - family-names: Wang
+        given-names: XiaoHui
+      - family-names: Liu
+        given-names: Xin
+    year: 2025
+    doi: 10.1007/s11063-025-11779-1
