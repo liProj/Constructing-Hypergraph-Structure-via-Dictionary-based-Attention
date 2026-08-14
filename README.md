@@ -1,6 +1,6 @@
-# DA-Hypergraph Reproduction
+# Constructing Hypergraph Structure via Dictionary-based Attention
 
-This repository is an independent, CPU-oriented reimplementation and audit of:
+This repository provides a CPU-oriented implementation and audit of:
 
 > Y. Sun et al., "Constructing Hypergraph Structure via Dictionary-based Attention," *Neural Processing Letters*, 2025. DOI: [10.1007/s11063-025-11779-1](https://doi.org/10.1007/s11063-025-11779-1).
 

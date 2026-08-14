@@ -1,10 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this independent reproduction, cite the original paper and this software snapshot."
-title: "DA-Hypergraph Reproduction"
+message: "If you use this software, cite the original paper and this software snapshot."
+title: "Constructing Hypergraph Structure via Dictionary-based Attention"
 type: software
 version: 0.1.0
 authors:
-  - name: "Anonymous reproduction authors"
+  - name: "Anonymous software authors"
 date-released: 2026-08-14
 references:
   - type: article
