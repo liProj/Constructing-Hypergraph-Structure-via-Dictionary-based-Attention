@@ -1,0 +1,6 @@
+seed,baseline_accuracy,da_accuracy,delta,baseline_best_epoch,da_best_epoch,protocol
+0,0.8289999961853027,0.8309999704360962,0.001999974250793457,4,5,node_neighborhood_hyperedges_global_dictionary_floor_0.5
+1,0.828000009059906,0.8100000023841858,-0.018000006675720215,5,121,node_neighborhood_hyperedges_global_dictionary_floor_0.5
+2,0.7990000247955322,0.796999990940094,-0.0020000338554382324,19,19,node_neighborhood_hyperedges_global_dictionary_floor_0.5
+3,0.8209999799728394,0.8109999895095825,-0.009999990463256836,7,57,node_neighborhood_hyperedges_global_dictionary_floor_0.5
+4,0.8190000057220459,0.8119999766349792,-0.00700002908706665,7,6,node_neighborhood_hyperedges_global_dictionary_floor_0.5

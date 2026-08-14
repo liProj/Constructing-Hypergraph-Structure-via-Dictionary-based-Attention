@@ -1,0 +1,16 @@
+experiment,x,baseline_pct,da_pct,dataset,source
+knn_k,5,79.2,80.9,ET-YaleB,Figure 7
+knn_k,10,78.9,81.1,ET-YaleB,Figure 7
+knn_k,20,75.4,79.7,ET-YaleB,Figure 7
+knn_k,30,69.1,75.3,ET-YaleB,Figure 7
+knn_k,40,61.5,72.9,ET-YaleB,Figure 7
+gaussian_variance,0.0,79.2,80.9,ET-YaleB,Figure 9
+gaussian_variance,0.2,74.3,79.1,ET-YaleB,Figure 9
+gaussian_variance,0.4,65.1,77.2,ET-YaleB,Figure 9
+gaussian_variance,0.6,50.2,70.4,ET-YaleB,Figure 9
+gaussian_variance,0.8,39.9,66.1,ET-YaleB,Figure 9
+removed_hyperedge_rate,0.0,82.5,83.8,Cora,Figure 10
+removed_hyperedge_rate,0.2,80.0,82.1,Cora,Figure 10
+removed_hyperedge_rate,0.4,76.6,79.7,Cora,Figure 10
+removed_hyperedge_rate,0.6,69.6,76.5,Cora,Figure 10
+removed_hyperedge_rate,0.8,63.5,70.4,Cora,Figure 10

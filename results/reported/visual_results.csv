@@ -1,0 +1,10 @@
+dataset,generator,hl_accuracy_pct,da_hl_accuracy_pct,delta_pp,source
+ET-YaleB,knn,79.2,80.9,1.7,Figure 4
+ET-YaleB,clustering,77.4,80.4,3.0,Figure 4
+ET-YaleB,representation,80.3,81.1,0.8,Figure 4
+MNIST,knn,67.2,69.5,2.3,Figure 5
+MNIST,clustering,64.3,67.7,3.4,Figure 5
+MNIST,representation,68.4,69.9,1.5,Figure 5
+RSSCN7,knn,67.5,68.6,1.1,Figure 6
+RSSCN7,clustering,66.4,68.1,1.7,Figure 6
+RSSCN7,representation,68.1,68.7,0.6,Figure 6

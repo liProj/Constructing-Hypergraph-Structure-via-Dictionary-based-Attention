@@ -1,0 +1,13 @@
+method,cora_pct,citeseer_pct,pubmed_pct,source
+Planetoid,75.7,64.7,77.2,Table 2
+DeepWalk,67.2,43.2,65.3,Table 2
+ICA,75.1,69.1,73.9,Table 2
+MoNet,81.7,,78.8,Table 2
+Chebyshev,81.2,69.8,74.4,Table 2
+ManiReg,59.5,60.1,70.7,Table 2
+LP,68.0,45.3,63.0,Table 2
+GCN,81.5,70.3,79.0,Table 2
+HGNN,81.6,70.7,80.1,Table 2
+HLPN,82.2,71.3,80.3,Table 2
+DHGNN,82.5,71.2,79.8,Table 2
+DA-DHGNN,83.8,72.1,81.5,Table 2
