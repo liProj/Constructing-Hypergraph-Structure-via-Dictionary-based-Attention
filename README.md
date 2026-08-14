@@ -120,4 +120,6 @@ by the downloader make the local inputs auditable.
   256 (Cora/Pubmed) and 64 (Citeseer); some secondary transcriptions get these
   values wrong.
 
-See `manuscript/reproduction_results.tex` for paper-ready experimental text.
+See `manuscript/paper_results.tex` for paper-ready experimental text. Following
+the manuscript policy, this LaTeX section contains only the source-paper values
+and does not include the independent pilot measurements.
